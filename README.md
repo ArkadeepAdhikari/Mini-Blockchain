@@ -17,8 +17,8 @@ transaction1 = {
   'receiver': 'Harry'}
 In this transaction, Ron sends 50 units of some currency to Harry.
 
-The hashing function used in this implementation is sha-256 which can be easily imported using hashlib library
-The Mini-Blockchain also has a proof-of-work implemented where the miners must compete to get 0000 as the first 4 digits as the hash to broadcast 
+The hashing function used in this implementation is sha-256 which can be easily imported using hashlib library.
+<br></br>The Mini-Blockchain also has a proof-of-work implemented where the miners must compete to get 0000 as the first 4 digits as the hash to broadcast 
 their unconfirmed work in the network. This difficulty can be easily modified later using the difficulty variable.
 
 # Requirements

@@ -5,7 +5,7 @@
 Mini-Blockchain is a small sized implementation of Blockchain. It can be used to store data such as transactions between senders and receivers. 
 It is based on the idea of blockchain and keeps a record of transactions in chronological order.
 The implementation has two main components:
-1.Block: This can be thought of an individual transaction or piece of data that can be stored within the blockchain
+<br></br>1.Block: This can be thought of an individual transaction or piece of data that can be stored within the blockchain
 2.Blockchain: This is a continuously growing list of records (blocks) that are linked chronologically and secured using cryptography methods
 
 # Implementation and Testing
